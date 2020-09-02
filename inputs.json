@@ -8,12 +8,12 @@
         {
             "name": "Name",
             "type": "text",
-            "value": "test"
+            "value": "jasså"
         },
         {
             "name": "Radius",
             "type": "scalar",
-            "values": 10,
+            "values": 30,
             "units": "mm"
         },
         {
