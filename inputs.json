@@ -13,7 +13,7 @@
         {
             "name": "Radius",
             "type": "scalar",
-            "values": 40,
+            "values": 10,
             "units": "mm"
         },
         {
