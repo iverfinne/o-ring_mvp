@@ -1,0 +1,26 @@
+{
+    "inputs": [
+        {
+            "name": "Output directory",
+            "type": "text",
+            "value": "."
+        },
+        {
+            "name": "name",
+            "type": "text",
+            "value": "hmm"
+        },
+        {
+            "name": "Radius",
+            "type": "scalar",
+            "values": 60,
+            "units": "mm"
+        },
+        {
+            "name": "Torus radius",
+            "type": "scalar",
+            "values": 4,
+            "units": "mm"
+        }
+    ]
+}
